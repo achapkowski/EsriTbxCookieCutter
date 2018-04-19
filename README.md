@@ -7,13 +7,10 @@ Usage
 
 Install `cookiecutter`_:
 
-.. code-block:: bash
-
     pip install cookiecutter
 
 Generate a Python package project:
 
-.. code-block:: bash
 
     cookiecutter https://github.com/achapkowski/EsriTbxCookieCutter.git
 

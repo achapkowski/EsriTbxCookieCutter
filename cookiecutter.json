@@ -1,0 +1,13 @@
+{
+    "project_name": "MyFirstProject",
+	"short_description" : "Short Description",
+	"file_name": "script",
+	"python" : "3",
+	"email" : "N/A",
+	"author" : "N/A",
+	"release" : "0.1.0",
+	"copyright" : "N/A",
+	"year" : "2018",
+	"toolbox" : "FirstToolbox",
+	"tool" : "FirstTool"
+}   
